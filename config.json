@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "enabled": true,
+  "opensAt": null,
+  "closesAt": null,
+  "access": null,
+  "announcement": "",
+  "offlineGraceSeconds": 300
+}
