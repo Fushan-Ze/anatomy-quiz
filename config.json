@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "enabled": flase,
+  "enabled": false,
   "opensAt": null,
   "closesAt": null,
   "access": null,
